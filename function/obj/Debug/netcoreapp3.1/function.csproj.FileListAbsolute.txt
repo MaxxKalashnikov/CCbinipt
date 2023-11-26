@@ -1,0 +1,14 @@
+C:\Users\Максим\source\repos\function\function\bin\Debug\netcoreapp3.1\function.exe
+C:\Users\Максим\source\repos\function\function\bin\Debug\netcoreapp3.1\function.deps.json
+C:\Users\Максим\source\repos\function\function\bin\Debug\netcoreapp3.1\function.runtimeconfig.json
+C:\Users\Максим\source\repos\function\function\bin\Debug\netcoreapp3.1\function.runtimeconfig.dev.json
+C:\Users\Максим\source\repos\function\function\bin\Debug\netcoreapp3.1\function.dll
+C:\Users\Максим\source\repos\function\function\bin\Debug\netcoreapp3.1\function.pdb
+C:\Users\Максим\source\repos\function\function\obj\Debug\netcoreapp3.1\function.csproj.AssemblyReference.cache
+C:\Users\Максим\source\repos\function\function\obj\Debug\netcoreapp3.1\function.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Максим\source\repos\function\function\obj\Debug\netcoreapp3.1\function.AssemblyInfoInputs.cache
+C:\Users\Максим\source\repos\function\function\obj\Debug\netcoreapp3.1\function.AssemblyInfo.cs
+C:\Users\Максим\source\repos\function\function\obj\Debug\netcoreapp3.1\function.csproj.CoreCompileInputs.cache
+C:\Users\Максим\source\repos\function\function\obj\Debug\netcoreapp3.1\function.dll
+C:\Users\Максим\source\repos\function\function\obj\Debug\netcoreapp3.1\function.pdb
+C:\Users\Максим\source\repos\function\function\obj\Debug\netcoreapp3.1\function.genruntimeconfig.cache
